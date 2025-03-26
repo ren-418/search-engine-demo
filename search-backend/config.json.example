@@ -1,0 +1,8 @@
+{
+    "debug": true,
+    "PORT": 8000,
+    "DATABASE": "mongodb://localhost:27017/cbetworld_410",
+    "secret": "",
+    "JWT_SECRET": "",
+    "CHAINID": 421613
+}
